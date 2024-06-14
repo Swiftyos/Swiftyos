@@ -6,7 +6,7 @@ I'm an AI Engineer with a background in Aerospace Engineering, specializing in t
 ## Projects
 ### AutoGPT
 - **GitHub Repo**: [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-- Contributed significantly to the AutoGPT project, focusing on optimizing generative models with advanced natural language processing to enhance the intelligence and responsiveness of AI agents.
+- Contributed significantly to the AutoGPT project. AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
 ## Published Papers
 - **GAIA: a benchmark for General AI Assistants**  
