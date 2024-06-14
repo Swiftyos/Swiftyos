@@ -1,5 +1,3 @@
-# Hello, I'm Craig 👋
-
 ## About Me
 I'm an AI Engineer with a background in Aerospace Engineering, specializing in the development of intelligent agents. My expertise in Python and Rust allows me to build AI systems that are not only powerful but also efficient and scalable. 
 
