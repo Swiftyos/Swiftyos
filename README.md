@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Ribelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=swiftyos&theme=dark&show_owner=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Swiftyos/Swiftyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
